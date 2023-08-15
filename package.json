@@ -39,7 +39,7 @@
     "sequelize-pool": "^6.1.0",
     "toposort-class": "^1.0.1",
     "uuid": "^8.1.0",
-    "validator": "^10.11.0",
+    "validator": "^13.7.0",
     "wkx": "^0.5.0"
   },
   "devDependencies": {
@@ -89,11 +89,11 @@
     "pg-hstore": "2.3.3",
     "prettier": "2.0.5",
     "rimraf": "3.0.2",
-    "semantic-release": "17.0.7",
+    "semantic-release": "19.0.3",
     "sinon": "9.0.2",
     "sinon-chai": "3.5.0",
     "sqlite3": "4.2.0",
-    "tedious": "8.3.0",
+    "tedious": "16.1.0",
     "typescript": "3.9.5"
   },
   "peerDependenciesMeta": {
